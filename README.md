@@ -2,7 +2,7 @@
 Welcome, I invented a chess-like game (which is impossible to play over real board), but people have difficulties in understanding rules without seeing any example. So i decided to learn html and create a page with interactive demonstration instead of publishing a rulebook.
 
 ## Roadmap:
-- <i am here>
+* __i am here__ 06.04.2021
 * import font from google and define layout
 * find out how to draw on canvas
 * make javascript function (pieceName, coords) {draw piece}
